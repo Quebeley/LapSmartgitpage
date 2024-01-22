@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LapSmartgitpage/static/css/main.c73ecda8.css",
-    "main.js": "/LapSmartgitpage/static/js/main.b84f3295.js",
-    "static/media/lapSimple.png": "/LapSmartgitpage/static/media/lapSimple.df4de75d805750a82da0.png",
-    "static/media/logo.svg": "/LapSmartgitpage/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
-    "index.html": "/LapSmartgitpage/index.html",
-    "main.c73ecda8.css.map": "/LapSmartgitpage/static/css/main.c73ecda8.css.map",
-    "main.b84f3295.js.map": "/LapSmartgitpage/static/js/main.b84f3295.js.map"
+    "main.css": "/static/css/main.c73ecda8.css",
+    "main.js": "/static/js/main.158bdbcd.js",
+    "static/media/lapSimple.png": "/static/media/lapSimple.df4de75d805750a82da0.png",
+    "static/media/logo.svg": "/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/index.html",
+    "main.c73ecda8.css.map": "/static/css/main.c73ecda8.css.map",
+    "main.158bdbcd.js.map": "/static/js/main.158bdbcd.js.map"
   },
   "entrypoints": [
     "static/css/main.c73ecda8.css",
-    "static/js/main.b84f3295.js"
+    "static/js/main.158bdbcd.js"
   ]
 }
