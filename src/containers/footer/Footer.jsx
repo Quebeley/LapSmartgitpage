@@ -2,13 +2,19 @@ import React from 'react'
 import './footer.css';
 
 const Footer = () => {
+
+  const handleRequestAccessClick = () => {
+    // Redirects to the specified URL
+    window.location.href = 'https://forms.gle/51sV5vQzRdwomYRH8';
+  };
+
   return (
     <div className='gpt3__footer section_padding' id='Download'>
       <div className='gpt3__footer-heading'>
         <h1 className='gradient__text'>Want to become a better driver around the track?</h1>
       </div>
       <div className='gpt3__footer-btn'>
-        <button type='button'>Request Early Access</button>
+        <button type='button' onClick={handleRequestAccessClick}>Request Early Access</button>
       </div>
 
       <div className='gpt3__footer-links'>
@@ -36,3 +42,4 @@ const Footer = () => {
 }
 
 export default Footer
+
