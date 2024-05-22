@@ -1,1 +1,46 @@
-this is an example privacy policy
+Privacy Policy
+LapSmart, LLC
+Effective Date: May 21, 2024
+
+Introduction
+Welcome to LapSmart! This Privacy Policy describes how LapSmart, LLC ("we", "us", or "our") collects, uses, and protects your information when you use our LapSmart mobile application ("App"). By using the App, you agree to the terms outlined in this Privacy Policy.
+
+Information We Collect
+When you use the logging function in LapSmart, we collect the following information:
+
+GPS Information: We collect your location data to track your routes and provide performance insights.
+Acceleration Data: We collect data from your device's accelerometer to analyze your movements and improve your experience.
+How We Use Your Information
+The data we collect is used to:
+
+Track and record your activity while using the logging function.
+Provide you with insights and analytics about your performance.
+Enhance and personalize your experience with the App.
+Data Storage
+All data recorded by the App is stored securely on your device and in our servers. We take appropriate measures to protect your data from unauthorized access, alteration, or destruction.
+
+Data Sharing
+We respect your privacy. Your data is not shared with any third parties unless you choose to share it yourself. If you decide to share your data with others, please be aware that you are responsible for the information you share.
+
+Your Consent
+By using the LapSmart App, you consent to our collection and use of your information as described in this Privacy Policy. If we make any changes to our privacy practices, we will update this Privacy Policy to reflect those changes.
+
+Contact Us
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+
+LapSmart, LLC
+nickzhangrcfan@gmail.com
+
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+Thank you for using LapSmart!
+
+LapSmart, LLC reserves the right to update or change this Privacy Policy at any time. Your continued use of the App after any modifications to the Privacy Policy will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+
+
+
+
+
+
