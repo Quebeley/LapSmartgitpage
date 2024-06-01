@@ -27,7 +27,8 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: flex-start;
-    margin-bottom: 2rem; /* Add some spacing between rows */
+    margin-bottom: 2rem;
+    /* Add some spacing between rows */
 }
 
 .gpt3__whatgpt3-feature,
@@ -79,8 +80,11 @@
 
 .gpt3__whatgpt3-container {
     display: flex;
+    flex-direction: row;
+    /* Change to row direction */
     flex-wrap: wrap;
-    flex-direction: column; /* Change to column direction */
+    justify-content: space-between;
+    /* Space between items */
     margin-top: 2rem;
 }
 
@@ -88,7 +92,7 @@
     flex: 1;
     margin: 1rem;
     min-width: 210px;
-    display: unset;
+    display: flex;
     flex-direction: column;
 }
 
@@ -110,6 +114,9 @@
 }
 
 @media screen and (max-width: 650px) {
+    .gpt3__whatgpt3-row {
+        flex-direction: column;
+    }
 
     /* Customizing feature component as per needs */
     .gpt3__whatgpt3-feature .gpt3__features-container__feature {
@@ -124,6 +131,10 @@
     .gpt3__whatgpt3-heading h1 {
         font-size: 28px;
         line-height: 40px;
+    }
+
+    .gpt3__whatgpt3-container {
+        flex-direction: column;
     }
 }
 
@@ -144,14 +155,16 @@
 }
 
 .gpt3__whatgpt3-carousel .carousel-image {
-    width: 100%;
-    max-width: 500px;
+    width: 10%;
+    max-width: 400px;
 }
 
 .gpt3__whatgpt3-carousel .carousel-text {
-    font-family: var(--font-family); /* Adjust to match your desired font */
+    font-family: var(--font-family);
+    /* Adjust to match your desired font */
     font-size: 1rem;
-    color: var(--color-subtext); /* Adjust color as needed */
+    color: var(--color-subtext);
+    /* Adjust color as needed */
     margin-top: 0.5rem;
 }
 
